@@ -1,0 +1,6 @@
+git clone
+git add
+git commit
+gti push
+git status
+git pull
